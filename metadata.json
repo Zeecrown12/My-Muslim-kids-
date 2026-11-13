@@ -1,0 +1,6 @@
+{
+  "name": "My Muslim Kids",
+  "description": "A joyful, safe and trusted Islamic learning and entertainment platform for Muslim children aged 4–12 to watch, listen, learn, play, and grow in faith.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
